@@ -3,6 +3,7 @@
   background-color: #fafafa;
   padding: 10px 0px 10px 0px;
   width: 100%;
+  height: 20px;
   border-top-width: 1px;
   border-color: #ddd;
   border-top-style: solid;
@@ -35,4 +36,8 @@
 
 .footer-right {
   float: right;
+}
+
+.content {
+  min-height: calc(100vh - 70px);
 }

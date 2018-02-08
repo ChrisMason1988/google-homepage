@@ -87,6 +87,7 @@ p.results-text {
   position: relative;
   padding-left: 125px;
   top: -20px;
+  width: 600px;
 }
 
 h1 {
@@ -156,4 +157,8 @@ h3 {
 
 .google-pages {
   padding-left: 250px;
+}
+
+.footer {
+  position: fixed;
 }
